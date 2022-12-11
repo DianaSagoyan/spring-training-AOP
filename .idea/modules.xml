@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-21-AOP/spring-21-AOP.iml" filepath="$PROJECT_DIR$/spring-21-AOP/spring-21-AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-training-master 7.iml" filepath="$PROJECT_DIR$/.idea/spring-training-master 7.iml" />
+    </modules>
+  </component>
+</project>
